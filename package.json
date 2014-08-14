@@ -1,0 +1,31 @@
+{
+  "name": "mysql-query-with-cache",
+  "version": "0.0.0",
+  "description": "Node.js MySQL adapter with result caching",
+  "main": "./lib/mysql-query-with-cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ria-com/node-mysql-query-with-cache.git"
+  },
+  "keywords": [
+    "mysql",
+    "cache",
+    "memcache",
+    "node",
+    "config"
+  ],
+  "dependencies": {
+    "mysql-query": "git://github.com/ria-com/node-mysql-query.git#master",
+    "memcache-adapter": "git://github.com/ria-com/node-memcache-adapter.git#master",
+    "async": "~0.6.2"
+  },
+  "author": "SamhainG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/node-mysql-query-with-cache/issues"
+  },
+  "homepage": "https://github.com/ria-com/node-mysql-query-with-cache"
+}
