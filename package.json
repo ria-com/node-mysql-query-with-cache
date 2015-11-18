@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "mysql-query": "git://github.com/ria-com/node-mysql-query.git#master",
-    "memcache-adapter": "git://github.com/ria-com/node-memcache-adapter.git#master",
+    "node-memcache-adapter": "git://github.com/ria-com/node-memcache-adapter.git#master",
     "async": "*"
   },
   "author": "SamhainG",
